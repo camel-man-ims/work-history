@@ -12,4 +12,4 @@
 
 * [velog 주소](https://velog.io/@camel-man-ims)
 
-* 공부에 대한 기록은 tstory에서 진행중 ( 글이 대부분 비공개 )
+* 공부에 대한 기록은 tistory에서 진행중 ( 글이 대부분 비공개 )
